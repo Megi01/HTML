@@ -1,0 +1,23 @@
+.images{
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 150px;
+    margin-top: 15px;
+    }
+.our-pets{
+    background-color: #09090975;
+    padding: 100px;
+    margin-top: 8px;
+    display: flex;
+}
+.row{
+    display: flex;
+    float:inline-end;
+    height: 300px;
+    padding: 5px;
+    margin: 10px;  
+}
+.info{
+    display: flex;
+}
+
